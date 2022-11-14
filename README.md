@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Oluwadamilola
 - 👋 I am a Data Analyst
-- 👀 I’m a Data insterested in Data analytics and bussiness analytics
-- 🌱 I currently use SQL to complement Ms.Excel and Power BI in data querrying, manipulation and visualization.
+- 👀 I’m insterested in Data analytics and bussiness analytics
+- 🌱 I enjoy using SQL to complement Ms.Excel and Power BI in data querrying, manipulation and visualization.
 - 💞️ I’m looking to collaborate on anything related to Business and Data analytics
 - 📫 How to reach me https//twitter.com/damiolopade
 
